@@ -40,3 +40,9 @@ cuffs, "KOREA UNIVERSITY" lettering, tiger emblem, number 15 on the back.
 Generated via the `hatch-pet` / `imagegen` workflow (Codex built-in
 `image_gen`) using the three reference images in `references/`.
 Skill: `~/.codex/skills/hatch-pet/SKILL.md`
+
+## Campus Muse Codex pet
+
+The installable desktop pet and the separate ChatGPT web upload image are in [`pets/campus-muse/`](pets/campus-muse/). Download the ready-to-use bundle from [`output/campus-muse-codex-pet.zip`](output/campus-muse-codex-pet.zip); it contains the pet metadata, desktop sprite sheet, web upload image, instructions, and license. The web image is a transparent 1536 × 1872 PNG. See [`pets/campus-muse/README.md`](pets/campus-muse/README.md) for installation and upload steps.
+
+The new pet release is licensed separately under CC BY 4.0. This does not relicense the existing board or references, or grant rights to third-party names, logos, or trademarks shown in the art.

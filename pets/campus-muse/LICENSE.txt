@@ -1,0 +1,16 @@
+Campus Muse Codex Pet — CC BY 4.0
+
+Copyright (c) 2026 John030427
+
+The files in this Campus Muse release directory, and their copies bundled in
+output/campus-muse-codex-pet.zip, are licensed under the Creative Commons
+Attribution 4.0 International license (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
+
+Attribution: “Campus Muse Codex pet by John030427” with a link to
+https://github.com/John030427/desktop-pet-board and to the CC BY 4.0 license.
+
+This license applies only to the new Campus Muse pet release files. It does not
+apply to pre-existing repository files or grant rights to third-party names,
+logos, marks, or trademarks depicted in the artwork, including Korea University
+marks. No endorsement by any third party is implied.
